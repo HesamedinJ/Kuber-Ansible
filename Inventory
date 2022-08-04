@@ -1,0 +1,9 @@
+[Master-P]
+Master-1 ansible_host=Master-1 ansible_user=ansible
+
+[Master-S]
+Master-2 ansible_host=Master-2 ansible_user=ansible
+
+[Workers]
+Worker-1 ansible_host=Worker-1 ansible_user=ansible
+Worker-2 ansible_host=Worker-2 ansible_user=ansible
